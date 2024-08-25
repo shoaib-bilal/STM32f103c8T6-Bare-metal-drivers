@@ -1,0 +1,7 @@
+010i2c_slave_tx_string.c:35:6:delay	16	static
+010i2c_slave_tx_string.c:44:6:I2C2_GPIOInits	32	static
+010i2c_slave_tx_string.c:71:6:I2C2_Inits	8	static
+010i2c_slave_tx_string.c:89:5:main	8	static
+010i2c_slave_tx_string.c:113:6:I2C2_EV_IRQHandler	8	static
+010i2c_slave_tx_string.c:121:6:I2C2_ER_IRQHandler	8	static
+010i2c_slave_tx_string.c:129:6:I2C_Application_EventCallBack	24	static
